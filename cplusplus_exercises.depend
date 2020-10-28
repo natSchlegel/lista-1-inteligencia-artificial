@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601253513 source:c:\users\natas\desktop\cplusplus_exercises\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<locale.h>
+	<stack>
+	<queue>
+
+1603898150 source:c:\users\natas\desktop\cplusplus_exercises-master\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<locale.h>
+	<stack>
+	<queue>
+
